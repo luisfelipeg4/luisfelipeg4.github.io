@@ -1,0 +1,14 @@
+
+
+
+.horizontal { 
+    display: table-row
+}
+.cell  {
+    display: table-cell;
+    background-color: black;
+}
+.ppal{
+    border: 15px;
+    border-color: blue;
+}
