@@ -1,14 +1,21 @@
 
 
-
+/* 
 .horizontal { 
-    display: table-row
+    display: table-row;
 }
 .cell  {
     display: table-cell;
     background-color: black;
-}
-.ppal{
+    height: 50px;
+    width: 50px;   
+} */
+#ppal {
     border: 15px;
     border-color: blue;
+    width: 400px; 
+    height: 400px;
+    background-color: black; 
+    align-content: center;
+
 }
